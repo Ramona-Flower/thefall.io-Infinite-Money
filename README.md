@@ -43,7 +43,7 @@ Feel free to fork this repository, submit issues, or propose improvements. If yo
 
 ## Disclaimer ⚠️
 
-- This script is intended for educational purposes only 📚.
+- This script is intended for educational purposes only 📚. This code was modified using AI to be easily readable and modifiable.
 
 ## License 📄
 
